@@ -7,13 +7,13 @@ module.exports = {
   rootNotionSpaceId: null,
 
   // basic site info (required)
-  name: "pidb's blog",
-  domain: 'pidb.xyz',
-  author: 'pidb',
+  name: "Hello World! 👋",
+  domain: 'libc.rs',
+  author: 'neo',
 
   // open graph metadata (optional)
-  description: "pidb's blog",
-  socialImageTitle: 'pidb',
+  description: "Hello World! 👋",
+  socialImageTitle: 'Hello World! 👋',
   socialImageSubtitle: 'Hello World! 👋',
 
   // social usernames (optional)
